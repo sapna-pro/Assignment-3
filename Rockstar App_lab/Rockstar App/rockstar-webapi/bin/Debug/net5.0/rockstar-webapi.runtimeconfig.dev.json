@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/deepgamit/.dotnet/store/|arch|/|tfm|",
+      "/Users/deepgamit/.nuget/packages"
+    ]
+  }
+}
